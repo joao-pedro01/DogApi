@@ -1,4 +1,5 @@
 export interface Dog {
     message: string,
-    status: string
-}   
+    status: string,
+    code: string
+}
